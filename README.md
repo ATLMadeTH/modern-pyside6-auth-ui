@@ -1,3 +1,12 @@
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PySide6-UI%20Framework-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Platforms-Windows%20%7C%20Mac%20%7C%20Linux-6E6E6E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Active-4CAF50?style=for-the-badge" />
+</p>
+
 # Modern PySide6 Authentication Interface (Web2 + Web3 Ready)
 
 A clean, professional authentication UI built using **PySide6**, designed to emulate modern web aesthetics inside a native Python desktop application.
