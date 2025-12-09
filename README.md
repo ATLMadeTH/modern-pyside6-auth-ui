@@ -3,7 +3,19 @@
 A clean, professional authentication UI built using **PySide6**, designed to emulate modern web aesthetics inside a native Python desktop application.
 Includes Login, Signup, Forgot Password, and Info/Policy views — all styled with custom theming, smooth interactions, and Web3-ready components.
 
-![Screenshot](assets/preview.png)
+## 📸 Screenshots
+
+### Login
+![Login](assets/preview.png)
+
+### Signup
+![Signup](assets/preview2.png)
+
+### Forgot Password
+![Forgot Password](assets/preview3.png)
+
+### Info / Terms View
+![Info View](assets/preview4.png)
 
 ---
 
